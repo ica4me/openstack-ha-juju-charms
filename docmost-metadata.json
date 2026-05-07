@@ -1,0 +1,115 @@
+{
+  "exportedAt": "2026-05-07T04:50:25.245Z",
+  "source": "docmost",
+  "version": "0.80.0",
+  "pages": {
+    "HA%20OpenStack%20Charm.md": {
+      "pageId": "019da505-e617-7096-95d9-fcd12fa8b21a",
+      "slugId": "3aLD5evxAw",
+      "icon": "📂",
+      "position": "aK3kL",
+      "parentPath": null,
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-28T07:06:37.338Z"
+    },
+    "HA%20OpenStack%20Charm/Topologi.md": {
+      "pageId": "019da505-e617-7096-95d9-f74f006016ce",
+      "slugId": "73CyT5RwEm",
+      "icon": null,
+      "position": "a12aV",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-28T07:04:41.373Z"
+    },
+    "HA%20OpenStack%20Charm/Client%20%26%20Admin%20Dashboard.md": {
+      "pageId": "019da505-e617-7096-95d9-de5f59f136ef",
+      "slugId": "orERIuLq8O",
+      "icon": null,
+      "position": "a59Z5",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-22T07:29:36.910Z"
+    },
+    "HA%20OpenStack%20Charm/Ubah%20Endpoint%20public%20jadi%20murni%20HTTPS.md": {
+      "pageId": "019da505-e617-7096-95d9-f9fda789ee99",
+      "slugId": "aJ29UQbGdI",
+      "icon": null,
+      "position": "a75kj",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-19T09:18:29.610Z"
+    },
+    "HA%20OpenStack%20Charm/Bootstrap%20Juju%20Controller.md": {
+      "pageId": "019da505-e616-744b-8802-61d495e1d330",
+      "slugId": "I83CQ60hJY",
+      "icon": null,
+      "position": "a2AB3",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-22T07:27:17.277Z"
+    },
+    "HA%20OpenStack%20Charm/MAAS%20Configure.md": {
+      "pageId": "019da505-e617-7096-95d9-ee88ba49c66c",
+      "slugId": "DaMcZJCWHJ",
+      "icon": null,
+      "position": "a0BWb",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-20T11:34:51.963Z"
+    },
+    "HA%20OpenStack%20Charm/Deployment%20Charm.md": {
+      "pageId": "019da505-e617-7096-95d9-e3fa64adb88a",
+      "slugId": "ltfUF6VArS",
+      "icon": null,
+      "position": "a37qp",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-28T17:36:53.738Z"
+    },
+    "HA%20OpenStack%20Charm/EndPoint%20HTTP%20to%20HTTPS.md": {
+      "pageId": "019da505-e617-7096-95d9-ebce06721b11",
+      "slugId": "GA9EhnFSdX",
+      "icon": null,
+      "position": "a40pi",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-22T07:29:23.154Z"
+    },
+    "HA%20OpenStack%20Charm/Operasional%20CLI.md": {
+      "pageId": "019da505-e617-7096-95d9-f0310ffe9812",
+      "slugId": "HSx3B1rCct",
+      "icon": null,
+      "position": "a85F0",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-22T07:33:14.803Z"
+    },
+    "HA%20OpenStack%20Charm/Expose%20Domain%20(Proxy).md": {
+      "pageId": "019da505-e617-7096-95d9-e78eec43a897",
+      "slugId": "UiYVO4BjYp",
+      "icon": null,
+      "position": "a67OV",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-19T09:15:20.485Z",
+      "updatedAt": "2026-04-19T09:18:23.634Z"
+    },
+    "HA%20OpenStack%20Charm/SOLVE%20METADATA%20%26%20TENANT%20NETWORK.md": {
+      "pageId": "019daa8a-2977-7f9a-ab4a-2b505e5825d7",
+      "slugId": "kvLYk0WZq5",
+      "icon": null,
+      "position": "a97RC",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-20T10:57:54.547Z",
+      "updatedAt": "2026-04-22T07:35:15.493Z"
+    },
+    "HA%20OpenStack%20Charm/Vault%20CA%20%E2%9E%A1%EF%B8%8F%20Let's%20Encrypt.md": {
+      "pageId": "019daedb-b4ae-7b33-92b1-d4de64483332",
+      "slugId": "ROvRUy6iEz",
+      "icon": null,
+      "position": "aA6rD",
+      "parentPath": "HA%20OpenStack%20Charm.md",
+      "createdAt": "2026-04-21T07:05:27.466Z",
+      "updatedAt": "2026-04-22T10:03:07.327Z"
+    }
+  }
+}
