@@ -57,7 +57,7 @@ Detail topologi, subnet, IP VIP, hostname, spesifikasi node, dan catatan boot or
 | 11     | [SOLVE METADATA & TENANT NETWORK](HA%20OpenStack%20Charm/SOLVE%20METADATA%20%26%20TENANT%20NETWORK.md)             | Troubleshooting metadata service, tenant network, floating IP, dan konektivitas VM. |
 
 > [!IMPORTANT]
-> Full Documentation Step-by-step Deploy: (HA%20OpenStack%20Charm/Deployment%20Charm.md)
+> Full Documentation Step-by-step Deploy: [Full Step Deployment Charm](HA%20OpenStack%20Charm/Deployment%20Charm.md)
 
 ---
 
